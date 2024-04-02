@@ -2,3 +2,15 @@
 print("test-approach-shift-left")
 
 # RTCT: ./shift_left
+
+"""
+pip show flask
+pip show Werkzeug
+
+pip install --upgrade flask
+pip install --upgrade Werkzeug
+
+flask --app hello_app.py --debug run
+flask --app hello_app.py --debug run --port $PORT
+
+"""
